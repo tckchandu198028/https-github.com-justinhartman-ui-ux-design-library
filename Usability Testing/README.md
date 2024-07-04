@@ -41,3 +41,10 @@ The following books and PDF documents are contained in the **Usability Testing**
 </a>
 
 ---
+
+**Guides from Hubble**
+
+https://www.hubble.team/guide/moderated-vs-unmoderated-usability-testing
+https://www.hubble.team/guide/guide-to-recruitment-panel
+https://www.hubble.team/guide/ux-research-101-guide-to-surveys
+https://www.hubble.team/guide/writing-effective-usability-test-scripts-with-examples
